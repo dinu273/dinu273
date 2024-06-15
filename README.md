@@ -1,44 +1,73 @@
+👋 Hi, I'm Dinu G!
 
+🔭 I’m currently working on cloud-based projects and enhancing my skills in AWS cloud architecture and management.
+🌱 I’m currently learning advanced cloud security techniques and DevOps methodologies.
+👯 I’m looking to collaborate on innovative cloud computing projects and data engineering solutions.
+🤔 I’m looking for help with integrating complex cloud solutions and improving system automation.
+💬 Ask me about AWS Cloud, Linux administration, and cloud deployment strategies.
+📫 How to reach me: 
+  - Mobile: +91 6238000128
+  - Email: dinug273@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/dinug/)
+  - [GitHub](https://github.com/dinu273)
+⚡ Fun fact: I'm passionate about learning new technologies and enjoy working on challenging cloud projects.
 
-<h1 align="center">Hi 👋, I'm Dinu G</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinu273&label=Profile%20views&color=0e75b6&style=flat" alt="dinu273" /> </p>
+### Technical Skills
+- **Cloud Platforms:** AWS Cloud
+- **Operating Systems:** Linux, RedHat
+- **Version Control:** Git, GitHub, Gitlab
+- **Cloud Solutions:** Load Balancing, Cloud Deployment, Cloud Management, AWS Setup & Architecture, Cloud Computing
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinu273" alt="dinu273" /></a> </p>
+### Strengths
+- Dedicated and committed to assigned tasks
+- Collaborative team player
+- Clear and articulate communicator
+- Passionate about learning new technologies
+- Good leadership qualities
 
-- 🌱 I’m currently learning **Full stack development**
+### Profile Summary
+Enthusiastic and detail-oriented recent graduate in MCA with a solid foundation in cloud technologies. Adept at quickly acquiring new skills and applying theoretical knowledge to practical scenarios. Possess hands-on experience with AWS Cloud Platform, as well as foundational skills in virtualization, networking, security, and automation. Eager to contribute to dynamic cloud projects, demonstrate a strong work ethic, and grow within a collaborative team environment.
 
-- 📫 How to reach me **dinug273@gmail.com**
+### Projects
+- **Spotify Data Engineering End-to-End Project using AWS Cloud:**
+  - Data staged in S3, transferred to a data warehouse using AWS Glue for an ETL pipeline. Glue crawler creates a database and populates a table. AWS Athena queries the table, and QuickSight visualizes data for business insights.
+- **Deploy a WordPress Website on AWS Cloud:**
+  - A three-tier application with a user interface page, backend code, and user data stored in a MySQL database. Services used: EC2, RDS.
+- **VPC with Servers in Private Subnets and NAT:**
+  - Created a VPC for production servers using Auto Scaling group and Application Load Balancer in two Availability Zones. For security, servers are deployed in private subnets. Load balancer receives requests, and NAT gateway connects to the internet, enhancing resiliency by deploying in both zones.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinu-g-a32848177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinu-g-a32848177/" height="30" width="40" /></a>
-<a href="https://fb.com/dinu g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinu g" height="30" width="40" /></a>
-<a href="https://www.instagram.com/d__in__u_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d__in__u" height="30" width="40" /></a>
-</p>
+### Technical Summary
+- **AWS:** Auto Scaling, ELB, Security, AWS Services (EC2, RDS, EBS, S3, Amazon VPC, Route53, CloudWatch, CloudFormation, SNS, CloudTrail, IAM)
+- **Linux:** User permissions, access controls, system administration, user management, file system management, system configuration, SSH, SCP, rsync, cron, storage management, package management
+- **Database:** MySQL, MongoDB
+- **Languages:** HTML, CSS
+- **OS:** Windows, Linux
+- **Software:** Microsoft Office, Google Suite
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Training and Certifications
+- Cloud Computing Training | Besant Technologies, Bengaluru
+- 15 Days Student Development Programme (SDP) by Infosys
+- Certification on Fundamentals of Digital Marketing from Google Digital Garage
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinu273&show_icons=true&locale=en&layout=compact" alt="dinu273" /></p>
+### Education
+- **Master Of Computer Application (MCA),** RVS College of Arts & Science, Coimbatore, TamilNadu (2021-2023)
+- **Bachelor Of Computer Application (BCA),** MES College, Kottayam, Kerala (2017-2020)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinu273&show_icons=true&locale=en" alt="dinu273" /></p>
+### Personal Details
+- **Address:** Madiwala, Bengaluru, India, 560068 (Willing to relocate)
+- **Date of Birth:** 01 May 1999
+- **Languages Known:** English, Hindi, Tamil, Malayalam
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinu273&" alt="dinu273" /></p>
+---
 
-
-<!--
-**dinu273/dinu273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Roles of Interest
+- Cloud Consultant
+- AWS Support Engineer
+- Data Engineer
+- Junior Cloud Engineer
+- Cloud Support Associate
+- IT Support or Junior System Administrator
+- Cloud Security Engineer
+- Technical Support
