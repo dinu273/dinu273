@@ -6,7 +6,6 @@
 🤔 I’m looking for help with integrating complex cloud solutions and improving system automation.
 💬 Ask me about AWS Cloud, Linux administration, and cloud deployment strategies.
 📫 How to reach me: 
-  - Mobile: +91 6238000128
   - Email: dinug273@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/dinug/)
   - [GitHub](https://github.com/dinu273)
