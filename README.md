@@ -52,13 +52,9 @@ Enthusiastic and detail-oriented recent graduate in MCA with a solid foundation 
 - Certification on Fundamentals of Digital Marketing from Google Digital Garage
 
 ### Education
-- **Master Of Computer Application (MCA),** RVS College of Arts & Science, Coimbatore, TamilNadu (2021-2023)
-- **Bachelor Of Computer Application (BCA),** MES College, Kottayam, Kerala (2017-2020)
+- **Master Of Computer Application (MCA),** RVS College of Arts & Science, Coimbatore, TamilNadu 
+- **Bachelor Of Computer Application (BCA),** MES College, Kottayam, Kerala 
 
-### Personal Details
-- **Address:** Madiwala, Bengaluru, India, 560068 (Willing to relocate)
-- **Date of Birth:** 01 May 1999
-- **Languages Known:** English, Hindi, Tamil, Malayalam
 
 ---
 
